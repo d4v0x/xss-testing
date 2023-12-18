@@ -1,10 +1,10 @@
 {
-    "url": "https://github.com/d4v0x/xss-testing/blob/main/test.yaml",
+    "url": "https://raw.github.com/d4v0x/xss-testing/blob/main/test.yaml",
     "urls": [{
-        "url": "https://github.com/d4v0x/xss-testing/blob/main/test.yaml",
+        "url": "https://raw.github.com/d4v0x/xss-testing/blob/main/test.yaml",
         "name": "Foo"
     },{
-        "url": "https://github.com/d4v0x/xss-testing/blob/main/test2.yaml",
+        "url": "https://raw.github.com/d4v0x/xss-testing/blob/main/test2.yaml",
         "name": "Foo2"
     }]
 }
